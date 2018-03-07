@@ -1,6 +1,6 @@
 {
   "name": "ignite-test-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ignite-test-component",
   "main": "lib/index.js",
   "author": {
@@ -15,7 +15,6 @@
     "url": "https://github.com///issues"
   },
   "homepage": "https://github.com//",
-  "dependencies": {},
   "devDependencies": {
     "electrode-archetype-react-component": "^5.0.0",
     "electrode-archetype-react-component-dev": "^5.0.0"
